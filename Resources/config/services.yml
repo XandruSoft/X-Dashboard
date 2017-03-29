@@ -1,0 +1,4 @@
+services:
+#    xandrusoft_dashboard.example:
+#        class: Xandrusoft\DashboardBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
