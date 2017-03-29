@@ -1,0 +1,3 @@
+xandrusoft_dashboard_homepage:
+    path:     /
+    defaults: { _controller: XandrusoftDashboardBundle:Default:index }
